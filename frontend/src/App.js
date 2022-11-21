@@ -7,8 +7,9 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          HI ALl ,Goodbye ,we will see you soon Edit <code>src/App.js</code> and
-          save to reload.
+          HI ALl ,Goodbye ,we will not see you soon, you have to wait idiot Edit{" "}
+          <code>src/App.js</code> and save to reload. Don't try to mess with me
+          otherwise i will start crying
         </p>
         <a
           className="App-link"
